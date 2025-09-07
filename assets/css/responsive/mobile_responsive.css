@@ -1,0 +1,10 @@
+
+@media screen and (max-width: 46.1875em){  /* 739px */
+    /* body{
+        background-color: red;
+    } */
+    .hide-on-mobile {
+        display: none;
+    }
+}
+
